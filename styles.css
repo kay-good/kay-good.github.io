@@ -61,3 +61,22 @@ h6 {
     font-size: 48px;
     margin-bottom: 30px;
 }
+
+.descriptin {
+    margin-bottom: 70px;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.links__mail {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+
+.links__mail:hover, .links__mail:active {
+    color: #b00900;
+}
